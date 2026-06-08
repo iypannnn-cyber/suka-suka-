@@ -41,7 +41,7 @@
     <button onclick="showContent()">Klik di sini</button>
 
     <div id="content">
-        🎉 Selamat datang! Ini interface kamu
+        TENGOK PA TOH ANG
     </div>
 
     <script>
