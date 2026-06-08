@@ -41,7 +41,7 @@
     <button onclick="showContent()">Klik di sini</button>
 
     <div id="content">
-        TENGOK PA TOH ANG
+        TENGOK PA TOH ANG.
     </div>
 
     <script>
